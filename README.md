@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on projects with anyone who would like to gain experience as a mentor! Additionally, I would love to work on Sports Medicine, healthcare, or fitness related projects. 
 - 📫 Check out my [LinkedIn](https://www.linkedin.com/in/haley-seymour-lat-atc-a5b01052/) or contact me at haleycseymour@comcast.net. 
 - 📖 Please look at my [portfolio](https://haleysportfolio.herokuapp.com/). 
+- 📖 Please read my [gists](https://gist.github.com/hseymo)! 
 
 <!---
 hseymo/hseymo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
