@@ -5,7 +5,7 @@
 - 👩‍💻 Current Certifications Include:<br />
       - Oracle Certified Associate, Java SE 8 Programmer<br />
       - Oracle Certified Foundations Associate, Java<br />
-- 👀 Technical Skills Include:
+- 👀 Technical Skills Include:<br />
       - Languages: Java, JavaScript (Node.js)<br />
       - Client-Side: React, Redux, HTML, CSS, Bootstrap, Materialize, TypeScript, Handlebars, Angular<br />
       - Database: MySQL, MongoDB (SQL and NoSQL)<br />
