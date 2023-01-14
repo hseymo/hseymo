@@ -1,6 +1,18 @@
 - 👋 Hi, I’m Haley!
-- 👀 I am a Talent Developer at [Skillstorm](https://www.skillstorm.com), teaching Software Development. In June 2022, I graduated from the University of Washington Web Development bootcamp. I have 6+ years of experience as a Certified Athletic Trainer at Seattle Children's Hospital (Seattle, WA). I have my Bachelor of Science degree from Chapman University (Orange, CA).
-- 🌱 I am currently self-teaching Java! I'm knowledgable about React, Redux, HTML, CSS, Javascript, jQuery + UI, Bootstrap, Materialize, MySql, MongoDB, Node.js, and NPM packages like Sequelize, Mongoose, Inquirer, Express, and Handlebars!
+- 👀 I am a Talent Developer at [Skillstorm](https://www.skillstorm.com), teaching Full-Stack Java courses to our consultants. In June 2022, I graduated from the University of Washington Web Development bootcamp. I have 6+ years of experience as a Certified Athletic Trainer at Seattle Children's Hospital (Seattle, WA). I have my Bachelor of Science degree from Chapman University (Orange, CA).
+- 🌱 I am currently self-teaching Spring Data JPA, Spring Boot, and Amazon Web Services! Currently working towards AWS CCP and Oracle Certified Professional, Java SE 8 Programmer certifications. 
+- Certifications Include:
+      - Oracle Certified Associate, Java SE 8 Programmer
+      - Oracle Certified Foundations Associate, Java
+- Technical Skills Include:
+      - Languages: Java, JavaScript/Node.js
+      - Client-Side: React, Redux, HTML, CSS, Bootstrap, Materialize, TypeScript, jQuery, Handlebars, Angular 
+      - Database Platforms: MySQL, MongoDB
+      - Database Tier: SequelizeORM, MongooseORM, Express.js, Hibernate, JDBC, SQL, NoSQL
+      - Containerization and Platforms: Docker, Kubernetes, Heroku
+      - CI/CD: Jenkins, Maven, Git
+      - Microservices: Spring Boot, Spring Data JPA 
+- I'm knowledgable about React, Redux, HTML, CSS, Javascript, jQuery + UI, Bootstrap, Materialize, MySql, MongoDB, Node.js, and NPM packages like Sequelize, Mongoose, Inquirer, Express, and Handlebars!
 - 💞️ I’m looking to collaborate on projects with anyone who would like to gain experience as a mentor! Additionally, I would love to work on Sports Medicine, healthcare, or fitness related projects. 
 - 📫 Check out my [LinkedIn](https://www.linkedin.com/in/haley-seymour-lat-atc-a5b01052/) or contact me at haleycseymour@comcast.net. 
 - 📖 Please look at my [portfolio](https://haleysportfolio.herokuapp.com/). 
