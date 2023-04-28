@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Haley!
 - 👩‍🏫 I am a Talent Developer at [Skillstorm](https://www.skillstorm.com), teaching Full-Stack Java courses to our consultants. In June 2022, I graduated from the University of Washington Web Development bootcamp. I have 6+ years of experience as a Certified Athletic Trainer at Seattle Children's Hospital (Seattle, WA). I have my Bachelor of Science degree from Chapman University (Orange, CA).
-- 🌱 I am currently learning Spring Data JPA, Spring Boot, and Amazon Web Services!
-- 📚 I am currently working towards AWS Certified Cloud Practitioner and Oracle Certified Professional, Java SE 8 Programmer certifications. 
+- 🌱 I am currently learning SAP BASIS and ABAP, in addition to Spring Data JPA and Spring Boot!
+- 📚 I am currently working towards my SAP certifications as well as Oracle Certified Professional, Java SE 8 Programmer. 
 - 👩‍💻 Current Certifications Include:<br />
+      - AWS Certified Cloud Practitioner<br />
       - Oracle Certified Associate, Java SE 8 Programmer<br />
       - Oracle Certified Foundations Associate, Java<br />
 - 👀 Technical Skills Include:<br />
